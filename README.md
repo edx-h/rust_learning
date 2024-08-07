@@ -11,4 +11,4 @@ trait
 raw pointer
 
 smart pointers:
-box, rc, cell, refcell
+box, rc, cell, refcell, mutex
