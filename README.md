@@ -12,3 +12,5 @@ raw pointer
 
 smart pointers:
 box, rc, cell, refcell, mutex
+
+thread
