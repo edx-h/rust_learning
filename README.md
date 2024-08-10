@@ -16,3 +16,5 @@ box, rc, cell, refcell, mutex
 thread
 
 multi
+
+vim
