@@ -15,6 +15,8 @@ box, rc, cell, refcell, mutex
 
 thread
 
+string slice
+
 multi
 
 nested loop & label
