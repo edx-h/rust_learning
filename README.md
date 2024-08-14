@@ -21,6 +21,8 @@ multi
 
 nested loop & label
 
+lifetime
+
 macro
 
 cell refcell
