@@ -32,3 +32,5 @@ iterator
 stl
 
 attributes
+
+thread
