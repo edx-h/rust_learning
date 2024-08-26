@@ -34,3 +34,5 @@ stl
 attributes
 
 thread
+
+raw pointer
