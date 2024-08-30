@@ -40,3 +40,5 @@ raw pointer
 match
 
 mdbook
+
+borrow checking
