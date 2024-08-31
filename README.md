@@ -42,3 +42,5 @@ match
 mdbook
 
 borrow checking
+
+sync
