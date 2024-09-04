@@ -1,4 +1,4 @@
-rustc
+awwrustc
 cargo
 rust-analyzer
 
@@ -46,3 +46,5 @@ borrow checking
 sync
 
 hi
+
+good
