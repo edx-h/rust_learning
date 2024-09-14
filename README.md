@@ -1,3 +1,4 @@
+graph
 awwrustc
 cargo
 rust-analyzer
