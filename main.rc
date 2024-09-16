@@ -1,0 +1,23 @@
+use std::rc::Rc;
+#[derive(Debug)]
+struct Droppable {
+    name: &'static str,
+}
+impl Drop for Droppable {
+    fn drop(&mut self) {
+        println!("Dropping {}", self.name);
+    }
+}
+
+fn main() {
+let b = Rc::new(Droppable{name:"Hello"});
+let a = Rc::clone(&b);
+{
+drop(b);
+println!("dropped");
+}
+println!("{a:?}");
+//let c = &a;
+println!("OK");
+println!("bwss")
+}
